@@ -273,6 +273,8 @@ This project is currently not configured for deployment.
 *Deployment Considerations:*
 To deploy this as a full backend in the future, you would need to set up a MongoDB cluster (like MongoDB Atlas), use environment variables for connection strings, and deploy the Node.js app to a service like Render, Heroku, or AWS.
 
+https://stackblitz.com/edit/stackblitz-starters-mg2tiy
+
 ## 📋 Quick Reference
 ```text
 git clone URL ↓ npm install ↓ npm start ↓ Open http://localhost:3010
